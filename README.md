@@ -5,5 +5,3 @@
 - 📫 How to reach me? @itsasheer on Discord
 
 <p align="center"> <img src="https://github-stats-nullyisheres-projects.vercel.app/api?username=NullyIsHere&show_icons=true&theme=gotham" alt="NullyIsHere" /></p>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4pJWoKRKIaeprXy3kWY6CG?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
