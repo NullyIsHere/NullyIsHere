@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on small projects.
 
-<p align="center"> <img src="https://github-stats-nullyisheres-projects.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+<p align="center"> <img src="https://github-stats-nullyisheres-projects.vercel.app/api?username=NullyIsHere&show_icons=true&theme=gotham" alt="NullyIsHere" />
 
 <!--- - 📫 How to reach me. --->
 <!---
