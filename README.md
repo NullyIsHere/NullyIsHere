@@ -1,4 +1,4 @@
-# Hey, I’m NullyIsHere :D 🎉🤘
+# Hey, I’m NullyIsHere :D 🎉
 
 This is my quiet spot on GitHub, where I’m all about building harder, better, faster, stronger in Python 🐍⚡. Around here, I’m always up all night to get lucky with some cryptography 🔐✨ and AI 🤖🧠 experiments.
 
